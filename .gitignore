@@ -17,4 +17,4 @@ build/
 /*.booproj
 /.vscode
 /Packages
-/ProjectSettings
+Logs
